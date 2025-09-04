@@ -5,4 +5,5 @@
   <UCard>
     <NuxtPage />
   </UCard>
+  
 </template>
