@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Admin/OneDrive/Documents/Ny%20mapp/examples-main/examples-main/examples/routing/pages/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
